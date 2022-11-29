@@ -51,3 +51,11 @@
 $\vec{\nabla} \times \vec{E} = - \dfrac{\partial \vec{B}}{\partial t}$
 $$\vec{\nabla} \times \vec{E} = - \dfrac{\partial \vec{B}}{\partial t}$$
 
+
+Mecânica é a área de estudo da física que se concentra na descrição do movimento, explicando, desse modo, como ele ocorre e quais são as suas características fundamentais.[^1]
+
+[^1]: HELERBROCK, Rafael. Mecânica. ***Brasil Escola***. Disponível em: https://brasilescola.uol.com.br/fisica/mecanica.htm. Acesso em 29 nov. 2022.
+
+A mecânica é uma parte da Física. [^2]
+
+[^2]: Física Mecânica. ***Universo Portilho***. Disponível em: www.serginho.com.br. Acesso em: 29 nov. 2022.
