@@ -59,3 +59,12 @@ Mecânica é a área de estudo da física que se concentra na descrição do mov
 A mecânica é uma parte da Física. [^2]
 
 [^2]: Física Mecânica. ***Universo Portilho***. Disponível em: www.serginho.com.br. Acesso em: 29 nov. 2022.
+
+![física](https://user-images.githubusercontent.com/118854908/204638886-4876ecdf-1c8e-48f1-9e4a-21646120df57.jpeg)
+
+Livro do Resnick é legal. [^3]
+
+[^3]: HALLIDAY, David; RESNICK, Robert; WALKER, Jearl. Fundamentos da Física vol 1, 4a edição. Rio de Janeiro, LTC-Livros Técnicos e Científicos SA Halliday, D., Resnick, R., Krane, KS, 1996.
+
+
+
