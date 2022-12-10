@@ -34,7 +34,7 @@
   >  As superfícies equipotenciais fazem parte de um campo elétrico, onde cada ponto possui o mesmo potencial elétrico. São usadas na descrição do campo elétrico para várias aplicações, como análise de circuitos elétricos, análise de equipamentos elétricos, análise de sistemas de aquecimento, entre outras. 
   
   <p align="justify">
-  As cargas nas placas são proporcionais à diferença entre elas, ou seja:
+  As cargas nas placas do capacitor são proporcionais à diferença de potencial entre elas, ou seja:
   </p>
   
   $$Q = CV$$
@@ -45,6 +45,15 @@
   
   $$C = \frac{Q}{V}$$
 
-
-
+  <p align="justify">
+  A constânte $C$ depende apenas da geometria do capacitor.
+  </p>
+  
+ ### Unidade de Medida
+ 
+  <p align="justify">
+  No sistema internacional (SI), a unidade de medida utilizada para a capacitância é o Farad (F). Onde:
+  </p>
+  
+  1 farad = 1F = 1coulomb/1volt = 1C/1V
 
