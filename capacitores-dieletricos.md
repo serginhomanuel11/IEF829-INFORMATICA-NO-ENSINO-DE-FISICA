@@ -26,9 +26,8 @@
   Como as placas do capacitor são condutoras, elas formam superfícies equipotenciais.
   </p>
   
-  <p align="justify">
   Superfícies equipotenciais são superfícies de um campo elétrico, onde todos os pontos apresentam mesmo potencial elétrico, ou seja, suas linhas de força são sempre perpendiculares a sua superfície.[^1]
-  </p>
+  
   
 [^1]: ANJOS, Talita Alves dos. Superfícies Equipotenciais. **Brasil Escola**. Disponível em: https://brasilescola.uol.com.br/fisica/superficies-equipotenciais.htm. Acesso em 10 dez. 2022.
 
@@ -45,6 +44,7 @@
   </p>
   
   $$C = \frac{Q}{V}$$
+
 
 
 
