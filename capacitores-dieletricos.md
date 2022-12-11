@@ -200,7 +200,7 @@ $$dw = Vdq = \frac{q}{c}dq$$
 $$w = dw = \int \frac{q}{C}dq$$
 
  <p align="justify">
- Os parâmetros de integração vai desde a carga 0 (capacitor descarregado) até a carga total $Q$. Logo: 
+ Os parâmetros de integração vão desde a carga 0 (capacitor descarregado) até a carga total $Q$. Logo: 
  </p>
 
 $$w = dw = \int_{0}^{Q} \frac{q}{C}dq$$
@@ -222,6 +222,10 @@ $$U = \frac{1}{2}CV^2$$
   Portanto, calculamos a energia potencial elétrica armazenada no campo elétrico.
 
 ### Dielétricos
+
+  <p align="justify">
+  Quando preenchemos o espaço entre as placas de um capacitor com um dielétrico, que é um material isolante como plástico ou óleo mineral, o que acontece com a capacitância? O cientista inglês Michael Faraday foi o primeiro a investigar o assunto, em 1837. Faraday constatou que a capacitância era multiplicada por um fator numérico κ, que chamou de *constante dielétrica* do material isolante. 
+  </p>
 
   Quase todos os capacitores possuem entre suas placas condutoras um material isolante, ou dielétrico. Colocar um dielétrico sólido entre as placas de um capacitor possui três objetivos. Em primeiro lugar, resolve o problema mecânico de manter duas grandes placas metálicas separadas por uma distância muito pequena, sem que ocorra contato entre elas. Em segundo lugar, usando um dielétrico torna-se possível aumentar a diferença de potencial máxima entre as placas. Em terceiro lugar, a capacitância de um capacitor com dimensões fixas, quando existe um dielétrico entre as placas, é maior que a capacitância do mesmo capacitor quando há vácuo entre as placas. [^2]
   
