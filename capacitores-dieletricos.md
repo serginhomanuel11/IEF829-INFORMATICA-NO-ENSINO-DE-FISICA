@@ -91,10 +91,8 @@ $$V = \int_{+}^{-}Edl$$
   * Em uma ligação em paralelo, a diferença de potencial é a mesma através de todos os capacitores;
   * Todas as placas estão ligadas ao terminal da fonte.
   
-  ![paralelo](https://user-images.githubusercontent.com/118854908/206874026-4fff8786-4e09-45a2-a7eb-4d370dfaf819.PNG)
-  
   <p align="justify">
-  Quando analisamos um circuito que contém capacitores em paralelo, todos os capacitores tem a mesma diferença de potencial (estão ligados na bateria) e cada capacitor vai ter uma quantidade de carga, portanto, temos:
+  Quando analisamos um circuito que contém capacitores em paralelo, todos os capacitores tem a mesma diferença de potencial e uma quantidade de carga, portanto, temos:
   </p>
   
 $$q_{1} = C_{1}V$$
@@ -130,3 +128,56 @@ $$C_{eq} = \sum_{i}^{}C_{i}$$
   $\textcolor{red}{\text{Observação:}}$ Para os capacitores em paralelo, a capacitância do capacitor equivalente é sempre maior do que as capacitâncias individuais.
 
 #### Em série
+
+  * Capacitores são conectados em série por meio de fios condutores *a* e *b*.
+  * A diferença de potencial não é a mesma em cada capacitor, será a soma de todos eles.
+
+  <p align="justify">
+  Num esquema, temos uma bateria com três capacitores, a placa do capacitor $C_{1}$ está ligada no terminal negativo da fonte, e placa do capacitor $C_{3}$ está ligada ao terminal positivo. O capacitor $C_{2}$ não está conectado à fonte, ele se conecta com a fonte a partir dos outros capacitores.
+  </p>
+
+  <p align="justify">
+  A diferença de potencial fornecida pela bateria é distruibuída entre os capacitores, logo:
+  </p>
+  
+ $$V = V_{1} + V_{2} + V_{3}$$
+
+  <p align="justify">
+  Sabemos que:
+  </p>
+
+$$V_{1} = \frac{q}{C_{1}}$$
+
+$$V_{2} = \frac{q}{C_{2}}$$
+
+$$V_{3} = \frac{q}{C_{3}}$$
+
+  <p align="justify">
+  Portanto, podemos escrever que:
+  </p>
+
+$$V = \frac{q}{C_{1}} + \frac{q}{C_{2}} + \frac{q}{C_{3}}$$
+
+$$V = q\left ( \frac{1}{C_{1}} + \frac{1}{C_{2}} + \frac{1}{C_{3}} \right )$$
+
+  <p align="justify">
+  Onde $V$ é a diferença de potencial total. Com isso, concluímos que:
+  </p>
+
+$$V = \frac{q}{C_{eq}}$$
+
+  <p align="justify">
+  onde:
+  </p>
+
+$$\frac{1}{C_{eq}} = \frac{1}{C_{1}} + \frac{1}{C_{2}} + \frac{1}{C_{3}}$$
+
+ <p align="justify">
+  Dessa forma, vemos que o inverso da capacitância equivalente é a soma do inverso de cada uma das capacitâncias.
+  </p>
+  
+  $\textcolor{red}{\text{Observação:}}$ A capacitância equivalente é menor do que a capacitância dos capacitores.
+
+
+
+
