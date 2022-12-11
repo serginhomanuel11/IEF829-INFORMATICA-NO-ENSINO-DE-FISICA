@@ -224,7 +224,8 @@ $$U = \frac{1}{2}CV^2$$
 ### Dielétricos
 
   <p align="justify">
-  Quando preenchemos o espaço entre as placas de um capacitor com um dielétrico, que é um material isolante como plástico ou óleo mineral, o que acontece com a capacitância? O cientista inglês Michael Faraday foi o primeiro a investigar o assunto, em 1837. Faraday constatou que a capacitância era multiplicada por um fator numérico κ, que chamou de *constante dielétrica* do material isolante. 
+  Quando preenchemos o espaço entre as placas de um capacitor com um dielétrico, que é um material isolante como plástico ou óleo mineral, o que acontece com a capacitância? O cientista inglês Michael Faraday foi o primeiro a investigar o assunto, em 1837. Faraday constatou que a capacitância era multiplicada por um fator numérico $K$, que chamou de constante dielétrica do material isolante. Por definição, a constante dielétrica do vácuo é igual à unidade. Como o ar é constituído principalmente de espaço vazio, sua constante
+dielétrica é apenas ligeiramente maior que a do vácuo.
   </p>
 
   Quase todos os capacitores possuem entre suas placas condutoras um material isolante, ou dielétrico. Colocar um dielétrico sólido entre as placas de um capacitor possui três objetivos. Em primeiro lugar, resolve o problema mecânico de manter duas grandes placas metálicas separadas por uma distância muito pequena, sem que ocorra contato entre elas. Em segundo lugar, usando um dielétrico torna-se possível aumentar a diferença de potencial máxima entre as placas. Em terceiro lugar, a capacitância de um capacitor com dimensões fixas, quando existe um dielétrico entre as placas, é maior que a capacitância do mesmo capacitor quando há vácuo entre as placas. [^2]
@@ -232,5 +233,37 @@ $$U = \frac{1}{2}CV^2$$
 [^2]:YOUNG, HUGH D.; FREEDMAN, ROGER A. Física III: Eletromagnetismo. 12ª Edição. 2003.
 
   > Boa parte dos capacitores apresentam um material isolante ou dielétrico entre as suas placas, e o fato desse dielétrico estar enttre as placas do capacitor possui três objetivos. O primeiro objetivo é garantir que as placas do capacitor fiquem bem separadas, evitando assim que haja curtos-circuitos entre elas. Isso é importante para garantir que o capacitor funcione corretamente e não apresente problemas de funcionamento. O segundo objetivo é aumentar a diferença de potencial máxima entre as placas. Isso é possível porque os dielétricos são materiais que têm baixa condutividade elétrica, o que significa que eles permitem que a diferença de potencial entre as placas seja muito maior do que seria possível com o vácuo entre as placas. O terceiro objetivo é aumentar a capacitância do capacitor. A capacitância de um capacitor é a medida de sua capacidade de armazenar cargas elétricas. Quando um dielétrico é colocado entre as placas de um capacitor, a capacitância do capacitor aumenta, pois o dielétrico permite que mais cargas elétricas sejam armazenadas nas placas. Isso é importante porque um capacitor com maior capacitância pode armazenar mais energia elétrica e, portanto, pode ser usado em aplicações que exigem uma grande quantidade de energia.
+
+  <p align="justify">
+  Um eletrômetro sensível é um dispositivo que permite a medida da diferença de potencial entre dois condutores, sem que haja fluxo de carga apreciável de um condutor para o outro. Se temos um eletrômetro conectado às placas de um capacitor carregado, sendo $Q$ o módulo da carga de cada placa e $V_{0}$ a diferençade potencial. Quando inserimos entre as placas um dielétrico descarregado, como vidro, parafina ou poliestireno, o experimento mostra que a diferença de potencial diminui para um valor menor $V$. Quando removemos o dielétrico, a diferença de potencial retorna a seu valor original $V_{0}$, o que mostra que as cargas originais do capacitor não se alteram.
+  </p>
+
+  <p align="justify">
+  A capacitância original $C0$ é dada por: 
+  </p>
+  
+$$C_{0} = \frac {Q}{V_{0}}$$
+  
+  <p align="justify">
+  e a capacitância quando o dielétrico está presente é dada por:
+  </p>
+  
+$$C = \frac {Q}{V}$$
+  
+  <p align="justify">
+  A carga $Q$ é a mesma nos dois casos e, como $V$ é menor que $V_{0}$, concluímos que a capacitância $C$ com o dielétrico é maior que $C_{0}$. Quando o espaço entre as placas se encontra completamente preenchido com o dielétrico, a razão $C$ sobre $C_{0}$ (que é igual à razão entre $V_{0}$ e $V$) denomina-se constante dielétrica K do material:
+  </p>
+  
+$$K = \frac {C}{C_{0}}$$
+
+  <p align="justify">
+  Quando a carga é constante, $Q = C_{0}/V_{0} = CV = C/C_{0} = V_{0}/V$. Nesse caso,
+  </p>
+  
+$$V = \frac {V_{0}}{K}$$
+
+  <p align="justify">
+  Quando o dielétrico está presente, a diferença de potencial para uma carga fixa $Q$ é reduzida por um fator igual a $K$. A constante dielétrica $K$ é um número puro. Como $C$ é sempre maior que $C_{0}$, $K$ é sempre maior que 1.
+  </p>
 
 
