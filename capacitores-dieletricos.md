@@ -178,6 +178,46 @@ $$\frac{1}{C_{eq}} = \frac{1}{C_{1}} + \frac{1}{C_{2}} + \frac{1}{C_{3}}$$
   
   $\textcolor{red}{\text{Observação:}}$ A capacitância equivalente é menor do que a capacitância dos capacitores.
 
+### Energia armazenada no Campo Elétrico
 
+  <p align="justify">
+  A energia potencial armazenada em um capacitor carregado é exatamente igual ao trabalho realiazado para carregá-lo. Um agente externo deve realizar trabalho para carregar um capacitor. Este trabalho fica armazenado sob a forma de energia potencial na região do campo elétrico entre as placas.
+  </p>
 
+  <p align="justify">
+  Podemos determinar a $U$ (energia potencial) de um capacitor carregado, calculando o $W$ (trabalho) necessário para carregá-lo. Suponha que, depois do processo, a carga final seja $Q$ e a diferença de potencial $V$.
+  </p>
 
+  <p align="justify">
+  Supondo que no capacitor haja $+q$ e $-q$ armazenadas nas placas de um capacitor. A bateria vai realizar um trabalho de pegar mais um $dq$ e levar para a outra carga, ou seja, a bateria (agente externo) vai realizar um trabalho infinitesimal que é igual a diferença de potencial entre as placas.
+  </p>
+  
+  <p align="justify">
+  Temos que:
+  </p>
+  
+$$dw = Vdq = \frac{q}{c}dq$$
+
+$$w = dw = \int \frac{q}{C}dq$$
+
+ <p align="justify">
+ Os parâmetros de integração vai desde a carga 0 (capacitor descarregado) até a carga total $Q$. Logo: 
+ </p>
+
+$$w = dw = \int_{0}^{Q} \frac{q}{C}dq$$
+
+$$w = \frac{1}{C}\int_{0}^{Q} qdq$$
+
+$$w = \frac{1}{C} \left [\frac{Q^2}{2} - \frac{0^2}{2} \right]$$
+
+$$w = \frac{Q^2}{2C}$$
+
+ <p align="justify">
+ Como $Q = CV$, temos que: 
+ </p>
+
+$$U = \frac{C^2V^2}{2C}$$
+
+$$U = \frac{1}{2}CV^2$$
+
+Portanto, calculamos a energia potencial elétrica armazenada no campo elétrico.
