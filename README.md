@@ -67,4 +67,8 @@ Livro do Resnick é legal. [^3]
 [^3]: HALLIDAY, David; RESNICK, Robert; WALKER, Jearl. Fundamentos da Física vol 1, 4a edição. Rio de Janeiro, LTC-Livros Técnicos e Científicos SA Halliday, D., Resnick, R., Krane, KS, 1996.
 
 
+~~~
+Seryne Paper is here !
+~~~
+
 
